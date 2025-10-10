@@ -7,6 +7,8 @@ const Footer = () => {
       title: "Telefones",
       items: [
         { text: "(11) 94033 - 2460", href: "https://wa.me/5511940332460" },
+        { text: "(11) 98338 - 8016", href: "https://wa.me/5511983388016" },
+        
       ],
     },
     {
