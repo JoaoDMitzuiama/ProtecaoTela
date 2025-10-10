@@ -5,7 +5,7 @@ import heroImage from "@/assets/hero-bg.jpg";
 const Hero = () => {
   const handleWhatsAppClick = () => {
     window.open(
-      "https://wa.me/5511940332460?text=Olá,%20gostaria%20de%20fazer%20um%20orçamento.",
+      "https://wa.me/5511983388016?text=Olá,%20gostaria%20de%20fazer%20um%20orçamento.",
       "_blank"
     );
   };
