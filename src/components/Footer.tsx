@@ -43,7 +43,7 @@ const Footer = () => {
             <div
               key={index}
               className="text-center p-6 rounded-xl bg-white/5 backdrop-blur-sm border border-white/10 hover:border-accent transition-colors animate-slide-up"
-              style={{ animationDelay: `${index * 100}ms` }}
+              style={{ animationDelay: `${index * 100}ms`, backgroundColor: '#3c3c3c' }}
             >
               <div className="inline-flex p-3 rounded-xl bg-accent/20 mb-4">
                 <info.icon className="h-6 w-6 text-accent" />

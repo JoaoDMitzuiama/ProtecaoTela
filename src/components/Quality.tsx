@@ -31,7 +31,8 @@ const Quality = () => {
 
         <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
           {/* Certifications */}
-          <div className="p-8 rounded-2xl bg-card border border-border hover:border-accent transition-all duration-300 animate-slide-up">
+          <div className="p-8 rounded-2xl bg-card border border-border hover:border-accent transition-all duration-300 animate-slide-up"
+          style={{backgroundColor: '#3c3c3c' }}>
             <div className="flex items-center gap-3 mb-6">
               <div className="p-3 rounded-xl bg-accent/10">
                 <ShieldCheck className="h-8 w-8 text-accent" />
@@ -61,7 +62,7 @@ const Quality = () => {
           {/* Brands */}
           <div
             className="p-8 rounded-2xl bg-card border border-border hover:border-accent transition-all duration-300 animate-slide-up"
-            style={{ animationDelay: "100ms" }}
+            style={{ animationDelay: "100ms", backgroundColor: '#3c3c3c' }}
           >
             <div className="flex items-center gap-3 mb-6">
               <div className="p-3 rounded-xl bg-accent/10">

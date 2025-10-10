@@ -1,5 +1,7 @@
 import gallery1 from "@/assets/galeria-janela.jpg";
 import gallery2 from "@/assets/galeria-mezanino.jpg";
+import gallery3 from "@/assets/imagem3.jpeg";
+
 
 const Gallery = () => {
   const images = [
@@ -12,6 +14,11 @@ const Gallery = () => {
       src: gallery2,
       alt: "Rede de proteção em área de recreação infantil",
       title: "Área Kids",
+    },
+    {
+      src: gallery3,
+      alt: "Rede de proteção em área de recreação infantil",
+      title: "Proteção para pets",
     },
   ];
 

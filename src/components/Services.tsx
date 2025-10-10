@@ -52,8 +52,8 @@ const Services = () => {
           {services.map((service, index) => (
             <div
               key={index}
-              className="group relative overflow-hidden rounded-2xl gradient-card p-8 hover:scale-[1.02] transition-all duration-300 animate-scale-in"
-              style={{ animationDelay: `${index * 100}ms` }}
+              className="group relative overflow-hidden rounded-2xl p-8 hover:scale-[1.02] transition-all duration-300 animate-scale-in"
+              style={{ animationDelay: `${index * 100}ms`, backgroundColor: '#3c3c3c' }}
             >
               {/* Glow effect on hover */}
               <div className="absolute inset-0 opacity-0 group-hover:opacity-20 bg-accent blur-xl transition-opacity duration-300" />

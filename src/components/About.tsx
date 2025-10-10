@@ -38,7 +38,7 @@ const About = () => {
             <div
               key={index}
               className="group p-8 rounded-2xl bg-card border border-border hover:border-accent transition-all duration-300 hover:shadow-lg animate-slide-up"
-              style={{ animationDelay: `${index * 100}ms` }}
+              style={{ animationDelay: `${index * 100}ms`, backgroundColor: '#3c3c3c' }}
             >
               <div className="mb-6">
                 <div className="inline-flex p-4 rounded-xl bg-accent/10 group-hover:bg-accent/20 transition-colors">
