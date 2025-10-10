@@ -1,6 +1,9 @@
 import gallery1 from "@/assets/galeria-janela.jpg";
 import gallery2 from "@/assets/galeria-mezanino.jpg";
 import gallery3 from "@/assets/imagem3.jpeg";
+import gallery4 from "@/assets/imagem4.jpeg";
+import gallery5 from "@/assets/imagem5.jpeg";
+import gallery6 from "@/assets/imagem6.jpeg";
 
 
 const Gallery = () => {
@@ -19,6 +22,21 @@ const Gallery = () => {
       src: gallery3,
       alt: "Rede de proteção em área de recreação infantil",
       title: "Proteção para pets",
+    },
+    {
+      src: gallery4,
+      alt: "Rede de proteção instalada em janela de apartamento",
+      title: "",
+    },
+    {
+      src: gallery5,
+      alt: "Rede de proteção em área de recreação infantil",
+      title: "",
+    },
+    {
+      src: gallery6,
+      alt: "Rede de proteção em área de recreação infantil",
+      title: "",
     },
   ];
 
