@@ -43,7 +43,7 @@ const Header = () => {
         >
           <Shield className="h-8 w-8 text-accent transition-transform group-hover:scale-110" />
           <span className="text-xl font-heading font-bold text-foreground">
-            Redes Proteções
+            Vieira Redes
           </span>
         </button>
 

@@ -78,11 +78,11 @@ const Footer = () => {
           <div className="flex items-center justify-center gap-2 mb-4">
             <Shield className="h-5 w-5 text-accent" />
             <span className="font-heading font-semibold text-lg">
-              Redes Proteções
+              Vieira Redes
             </span>
           </div>
           <p className="text-white/60 text-sm">
-            &copy; 2025 Redes Proteções. Todos os direitos reservados.
+            &copy; 2025 Vieira Redes. Todos os direitos reservados.
           </p>
         </div>
       </div>
