@@ -15,8 +15,8 @@ const Footer = () => {
       title: "Email",
       items: [
         {
-          text: "contato@redesprotecoes.com.br",
-          href: "mailto:contato@redesprotecoes.com.br",
+          text: "redesvieira@gmail.com",
+          href: "mailto:redesvieira@gmail.com",
         },
       ],
     },
